@@ -16,8 +16,8 @@ This project is a RESTful API for managing books and users, using role-based aut
 
 1. **Clone the project**:
    ```bash
-   git clone <repo-url>
-   cd book-management-api
+   git clone https://github.com/KarlisN47/Praktika3_Backend_Books
+   cd Praktika3_Backend_Books
    ```
 
 2. **Install dependencies**:
